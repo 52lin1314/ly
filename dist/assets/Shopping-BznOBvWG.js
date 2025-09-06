@@ -1,0 +1,1 @@
+import{c as a,a as r,b as t,T as o,F as s,o as n}from"./index-TqtShvkg.js";const m={__name:"Shopping",setup(l){return(p,e)=>(n(),a(s,null,[e[0]||(e[0]=r("div",null,"商城",-1)),t(o)],64))}};export{m as default};
